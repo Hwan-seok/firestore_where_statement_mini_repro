@@ -1,0 +1,110 @@
+{
+  "project_info": {
+    "project_number": "1000424982729",
+    "firebase_url": "https://timespace-ab40d.firebaseio.com",
+    "project_id": "timespace-ab40d",
+    "storage_bucket": "timespace-ab40d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000424982729:android:8bec49c8b653d377b2a518",
+        "android_client_info": {
+          "package_name": "com.example.firestore_where_clause_reproduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000424982729-9ejvksqlq44ihpq6aa3gfkmkrsb2oseu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVU15tcv8lFSf0gCZEWxmA14C-2eNkssU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000424982729-9ejvksqlq44ihpq6aa3gfkmkrsb2oseu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000424982729-mtv56hfko47gulv12rti3dm4c1op03bu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timespace.letter",
+                "app_store_id": "1549613523"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000424982729:android:16037b713d61e523b2a518",
+        "android_client_info": {
+          "package_name": "com.timespace.letter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000424982729-7qbvmvkv03crejb7rgp42640g2ha2p6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timespace.letter",
+            "certificate_hash": "d9849cb40c6cdc01d73304948fe44aacbd142108"
+          }
+        },
+        {
+          "client_id": "1000424982729-bu9ulccb9o5n0frif8kek4j8uchqvqan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timespace.letter",
+            "certificate_hash": "571000d0efec9c4dda93eadd34026a068bd55fa9"
+          }
+        },
+        {
+          "client_id": "1000424982729-km1an5tb41nrvfthv6psm76h1e0i1k92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timespace.letter",
+            "certificate_hash": "b9be828ca2e197c270f447a6c69cde2dda71e661"
+          }
+        },
+        {
+          "client_id": "1000424982729-9ejvksqlq44ihpq6aa3gfkmkrsb2oseu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVU15tcv8lFSf0gCZEWxmA14C-2eNkssU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000424982729-9ejvksqlq44ihpq6aa3gfkmkrsb2oseu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000424982729-mtv56hfko47gulv12rti3dm4c1op03bu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timespace.letter",
+                "app_store_id": "1549613523"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8555958060094834~8540626342"
+    }
+  ],
+  "configuration_version": "1"
+}
